@@ -1,0 +1,14 @@
+@import "tailwindcss"
+
+.banner-container {
+  position: relative;
+}
+
+.banner-container img {
+  max-width: 100%;
+  height: auto;
+}
+
+.banner-content {
+  position: absolute;
+}
